@@ -27,7 +27,8 @@
         "sylius/resource-bundle":          "0.14.*@dev",
         "sylius/product":                  "0.14.*@dev",
         "sylius/archetype-bundle":         "0.14.*@dev",
-        "sylius/translation-bundle":       "0.14.*@dev"
+        "sylius/translation-bundle":       "0.14.*@dev",
+        "sylius/locale-bundle":            "0.14.*@dev"
     },
     "require-dev": {
         "phpspec/phpspec":   "~2.1",
